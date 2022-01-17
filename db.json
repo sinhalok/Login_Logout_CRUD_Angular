@@ -1,0 +1,70 @@
+{
+  "posts": [
+    {
+      "id": 6,
+      "firstName": "alok",
+      "lastName": "sinha",
+      "email": "asdg2",
+      "mobile": 2352,
+      "salary": 323
+    },
+    {
+      "id": 7,
+      "firstName": "ewr",
+      "lastName": "sdf",
+      "email": "sdfg",
+      "mobile": 3,
+      "salary": 545
+    },
+    {
+      "id": 8,
+      "firstName": "Ratna",
+      "lastName": "Sinha",
+      "email": "ratna@gmail.com",
+      "mobile": 124124,
+      "salary": 2342342
+    },
+    {
+      "id": 9,
+      "firstName": "Alok",
+      "lastName": "Sinha",
+      "email": "a",
+      "mobile": 23,
+      "salary": 34243
+    },
+    {
+      "id": 10,
+      "firstName": "Amit",
+      "lastName": "Sinha",
+      "email": "amit@gmail.com",
+      "mobile": 9845474532,
+      "salary": 352342342
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullName": "ratna",
+      "email": "ratna@gmail.com",
+      "password": "12345",
+      "mobile": 2323232,
+      "id": 1
+    },
+    {
+      "fullName": "alok",
+      "email": "alok@gmail.com",
+      "password": "1234",
+      "mobile": 23232,
+      "id": 2
+    },
+    {
+      "fullName": "Abhisekh",
+      "email": "abhi@gmail.com",
+      "password": "12345",
+      "mobile": 9852638173,
+      "id": 3
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
